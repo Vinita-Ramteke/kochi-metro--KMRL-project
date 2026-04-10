@@ -1,4 +1,4 @@
-  🚆 Kochi Metro – Document Automation System
+<img width="2880" height="1547" alt="Screenshot 2026-04-10 174701" src="https://github.com/user-attachments/assets/4beaa562-39a0-4780-9555-b78ea9ab406b" />  🚆 Kochi Metro – Document Automation System
 
 A prototype web application built to automate document processing across departments with real-time monitoring and AI-based insights.
 
@@ -49,13 +49,13 @@ To simulate a smart document automation system for Kochi Metro that:
  📷 Screenshots
 
  🔐 Login Page
-![Login](login.png)
+![Login](Uploading Screenshot 2026-04-10 174701.png)
 
  📊 Dashboard
-![Dashboard](dashboard.png)
+![Dashboard](Screenshot 2026-01-07 011639.png)
 
  🏢 Departments
-![Departments](departments.png)
+![Departments](Screenshot 2026-01-07 011639.png)
  
 
   👩‍💻 Author
